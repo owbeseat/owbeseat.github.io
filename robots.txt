@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owbeseat.github.io/sitemap
+Sitemap: https://owbeseat.github.io/app/sitemap
+Sitemap: https://owbeseat.github.io/assets/sitemap
+Sitemap: https://owbeseat.github.io/css/sitemap
+Sitemap: https://owbeseat.github.io/includes/sitemap
+Sitemap: https://owbeseat.github.io/item/sitemap
+Sitemap: https://owbeseat.github.io/src/sitemap
